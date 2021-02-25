@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shan</h1>
 <h3 align="center">A passionate Full Stack React Developer from the UK</h3>
 
-- 👨‍💻 All of my projects are available at [www.shantirmizi.com](www.shantirmizi.com)
+- 👨‍💻 All of my projects are available at [https://www.shantirmizi.com/](www.shantirmizi.com)
 
 - 💬 Ask me about **React & JavaScript**
 
