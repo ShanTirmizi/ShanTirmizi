@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [www.shantirmizi.com](https://www.shantirmizi.com/)
 
-- 💬 Ask me about **React & JavaScript**
+- 💬 Ask me about **React/Next js & JavaScript/Typescript**
 
 - 📫 How to reach me **tirmizishahnawaz@gmail.com**
 
