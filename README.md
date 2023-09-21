@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shan</h1>
 <h3 align="center">A passionate Full Stack React Developer from the UK</h3>
 
-- 👨‍💻 All of my projects are available at [www.shantirmizi.com](https://www.shantirmizi.com/)
-
-- 💬 Ask me about **React/Next js & JavaScript/TypeScript**
+- 🚀 Full Stack Developer | Crafting powerful web applications with a primary focus on **React.js, Ruby on Rails, and Next.js**.
+- 🏆 Drove innovations at GWI like the 'Opportunity Exchange', and led major £9.4 million projects at InvestCloud.
+- 🔧 My tech stack includes but isn't limited to: **JavaScript (ES6), TypeScript, SCSS, MySQL, Material UI, and Jest**.
+- 🤝 Proud of my soft skills arsenal: Leadership, Agile Methodologies, Strong Communication, and Teamwork.
+- 🖥️ Check out my portfolio to see a glimpse of my journey: [www.shantirmizi.com](https://www.shantirmizi.com/)
 
 - 📫 How to reach me **tirmizishahnawaz@gmail.com**
 
