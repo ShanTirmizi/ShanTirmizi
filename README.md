@@ -23,7 +23,7 @@
 <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://cdn3.iconfinder.com/data/icons/sympletts-free-sampler/128/diamond-512.png" width="40" height="40"/> </a>
 <a href="https://rubyonrails.org/" target="_blank"> <img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/ruby-on-rails-512.png" width="40" height="40"/> </a>
 <a href="https://www.chartjs.org" target="_blank"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a>  
-<a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
+<a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank"> <img src="https://upload.vectorlogo.zone/logos/nextjs/images/cf48b8f7-01c5-4564-a4e7-3854b6aea45c.svg" alt="Next js" width="40" height="40"/> </a>
  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://cdn0.iconfinder.com/data/icons/HTML5/512/HTML_Logo.png" alt="html5" width="40" height="40"/> </a> 
 </p>
 <div align='center'>
