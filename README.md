@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shan</h1>
-<h3 align="center">A passionate Full Stack React Developer from the UK</h3>
+<h3 align="center">A passionate Full Stack Developer from the UK</h3>
 
 - 🚀 Full Stack Developer | Crafting powerful web applications with a primary focus on **React.js, Ruby on Rails, and Next.js**.
 - 🏆 Drove innovations at GWI like the 'Opportunity Exchange', and led major £9.4 million projects at InvestCloud.
