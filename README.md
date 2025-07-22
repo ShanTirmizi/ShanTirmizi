@@ -6,7 +6,6 @@
 - 🛠️ I enjoy modernising legacy systems, mentoring devs, and bridging tech and business needs through clean architecture and strong communication.
 - 📊 Notable tech: **React, Flask, FastAPI, TypeScript, Ruby on Rails, SQLAlchemy, MySQL, PostgreSQL, Tanstack Query, Redux**.
 
-- 🔗 Portfolio: [www.shantirmizi.com](https://www.shantirmizi.com/)
 - 📫 Reach out: **tirmizishahnawaz@gmail.com**
 
 ---
